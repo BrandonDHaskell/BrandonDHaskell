@@ -1,16 +1,14 @@
-### Hi there 👋
+# Brandon Haskell
+**Aspiring Software Developer | Passionate Tech Enthusiast | Committed Collaborator**
 
-<!--
-**BrandonDHaskell/BrandonDHaskell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emerging software developer with a strong affinity for technology and unique perspectives from diverse work experiences. Eager to expand my network of engineers and rapidly grow within the industry.
 
-Here are some ideas to get you started:
+After a brief hiatus to care for a family member, I'm excited to re-enter the workforce as a dedicated Web Developer. If you're aware of any opportunities for a fast learner, skilled communicator, and collaborative team player, kindly share my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to offering help, guidance, or simply engaging in a friendly conversation. Don't hesitate to reach out, even for a coffee (or tea) chat. Looking forward to connecting with you!
+
+**LinkedIn:** [in/BrandonDHaskell](https://www.linkedin.com/in/BrandonDHaskell)
+
+**Twitter:** [@BrandonDHaskell](https://twitter.com/BrandonDHaskell)
+
+**Please Note:** This repo is replacing my old reop ([bhaskell7901](https://github.com/bhaskell7901)).  I'm updating the usernames for all my accounts for consistency.
