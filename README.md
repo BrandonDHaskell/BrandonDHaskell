@@ -1,5 +1,5 @@
 # Brandon Haskell
-**Aspiring Software Developer | Passionate Tech Enthusiast | Committed Collaborator**
+**Aspiring Software Developer | Experienced Tech Program Manager | Passionate Tech Enthusiast | Committed Collaborator**
 
 Emerging software developer with a strong affinity for technology and unique perspectives from diverse work experiences. Eager to expand my network of engineers and rapidly grow within the industry.
 
