@@ -11,4 +11,6 @@ I'm always open to offering help, guidance, or simply engaging in a friendly con
 
 **Twitter:** [@BrandonDHaskell](https://twitter.com/BrandonDHaskell)
 
+**Medium:** [@BrandonDHaskell](https://medium.com/@BrandonDHaskell)
+
 **Please Note:** This repo is replacing my old reop ([bhaskell7901](https://github.com/bhaskell7901)).  I'm updating the usernames for all my accounts for consistency.
