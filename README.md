@@ -1,16 +1,26 @@
 # Brandon Haskell
-**Aspiring Software Developer | Experienced Tech Program Manager | Passionate Tech Enthusiast | Committed Collaborator**
+**Software Developer Transitioning from Technical Program, Systems, and Operations Leadership**
 
-Emerging software developer with a strong affinity for technology and unique perspectives from diverse work experiences. Eager to expand my network of engineers and rapidly grow within the industry.
+I am an experienced technical professional with strong systems, data, operations, and cross-functional experience, and I am intentionally moving into software development.
 
-After a brief hiatus to care for a family member, I'm excited to re-enter the workforce as a dedicated Web Developer. If you're aware of any opportunities for a fast learner, skilled communicator, and collaborative team player, kindly share my profile.
+My current work is focused on building practical software projects across **C++**, **Go**, **Python**, **Linux**, **embedded systems**, and **backend-oriented development**. I am especially interested in creating tools and systems that improve reliability, automation, visibility, and real-world operations.
 
-I'm always open to offering help, guidance, or simply engaging in a friendly conversation. Don't hesitate to reach out, even for a coffee (or tea) chat. Looking forward to connecting with you!
+## Current Focus
+- Automation Engineer / Internal Tools Developer
+- Junior Backend Developer / Backend Engineer I
+- Software Developer I / Associate Software Engineer
+- QA Automation Engineer / SDET I
+- Application Support Engineer / Technical Solutions Engineer
 
-**LinkedIn:** [in/BrandonDHaskell](https://www.linkedin.com/in/BrandonDHaskell)
+## What You'll Find Here
+- Embedded and device-oriented software projects
+- Backend and systems-focused development work
+- Projects exploring APIs, automation, tooling, and reliability
+- Practical engineering work designed to solve real operational problems
 
-**Twitter:** [@BrandonDHaskell](https://twitter.com/BrandonDHaskell)
+## Selected Platforms
+- **Website:** [brandondhaskell.com](https://brandondhaskell.com/)
+- **LinkedIn:** [linkedin.com/in/BrandonDHaskell](https://www.linkedin.com/in/BrandonDHaskell)
+- **GitHub:** [github.com/BrandonDHaskell](https://github.com/BrandonDHaskell)
 
-**Medium:** [@BrandonDHaskell](https://medium.com/@BrandonDHaskell)
-
-**Please Note:** This repo is replacing my old reop ([bhaskell7901](https://github.com/bhaskell7901)).  I'm updating the usernames for all my accounts for consistency.
+I am actively building, refining, and documenting projects that reflect the kind of engineering work I want to do professionally. I am always glad to connect with engineers, hiring teams, and others working on thoughtful technical problems.
